@@ -133,10 +133,3 @@ mvn spring-boot:run
 * Cloud deployment (AWS/Azure).
 
 ---
-
-## 👩‍💻 Team & Acknowledgment
-
-Developed under **Infosys Springboard Internship 5.0**
-Project: **Care and Cure – Hospital Management Application**
-
-Mentors provided guidance on **Spring Boot, MySQL, MVC, and real-world healthcare workflows**.
