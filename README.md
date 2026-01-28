@@ -1,6 +1,6 @@
 # 🏥 Care and Cure Hospital App
 
-The **Care and Cure Hospital App** is a **Java Spring Boot-based full-stack hospital management system** built during **Infosys Springboard Internship 5.0**.  
+The **Care and Cure Hospital App** is a **Java Spring Boot-based full-stack hospital management system**.  
 It automates key hospital operations like **doctor management, patient profiles, appointments, billing, payments, and reporting**, providing a scalable and secure solution for healthcare workflows.  
 
 ---
